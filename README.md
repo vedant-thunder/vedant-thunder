@@ -1,2 +1,2 @@
 HI THERE!
-My name is Vedant Khanna. I am learning how to code!
+My name is Vedant Khanna. Currently, I am learning how to code!
